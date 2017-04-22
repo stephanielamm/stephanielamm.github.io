@@ -1,2 +1,2 @@
 # stephanielamm.github.io
-Stephanie Lamm's Github portfolio site. 
+This is Stephanie Lamm's Github portfolio site.
